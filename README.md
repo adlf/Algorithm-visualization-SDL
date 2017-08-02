@@ -7,9 +7,9 @@ Visualization of algorithms in SDL
 #
 Running
 
-`
+```
 gcc algorithms.c -O3 -o sort `sdl2-config --libs` -std=c99 -pedantic -ansi && ./sort
-`
+```
 
 ## Examples
 
